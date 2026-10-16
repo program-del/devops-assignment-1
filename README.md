@@ -21,3 +21,5 @@ I learned that Git is used to track changes in files over time. GitHub provides 
 ## Tools Used
 - GitHub website
 - Web browser
+## Branch Practice
+I created the assignment-notes branch to practise isolated changes.
